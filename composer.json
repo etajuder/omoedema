@@ -1,0 +1,13 @@
+{
+ "repositories": [
+        {
+            "type": "composer",
+            "url": "http://packagist.org"
+        }
+   ],
+    "require": {
+        "instamojo/instamojo-php":"0.3",
+  "swiftmailer/swiftmailer": "@stable",
+  "testinaweb/dynamic-crypto": "1.0.*@dev"
+    }
+}

@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en-US">              
+<head>
+    <meta charset="UTF-8">                   
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page not found | News Mix &#8211; Sport Magazine WordPress theme</title>     
+    <link rel="profile" href="http://gmpg.org/xfn/11">           
+    <link rel="pingback" href="http://kopatheme.net/demo/news-mix/xmlrpc.php">       
+    <link rel="shortcut icon" type="image/x-icon"  href="http://kopatheme.net/demo/news-mix/wp-content/uploads/2013/08/80x80_thumb.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="http://kopatheme.net/demo/news-mix/wp-content/uploads/2013/08/80x80_thumb.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="http://kopatheme.net/demo/news-mix/wp-content/uploads/2013/08/80x80_thumb.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="http://kopatheme.net/demo/news-mix/wp-content/uploads/2013/08/80x80_thumb.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="http://kopatheme.net/demo/news-mix/wp-content/uploads/2013/08/80x80_thumb.png">
+    <!--[if lt IE 9]>
+        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <script src="http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/js/PIE_IE678.js"></script>
+    <![endif]-->        
+    <link rel="alternate" type="application/rss+xml" title="News Mix - Sport Magazine WordPress theme &raquo; Feed" href="http://kopatheme.net/demo/news-mix/feed/" />
+<link rel="alternate" type="application/rss+xml" title="News Mix - Sport Magazine WordPress theme &raquo; Comments Feed" href="http://kopatheme.net/demo/news-mix/comments/feed/" />
+<link rel='stylesheet' id='kopa-bootstrap-css'  href='http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/css/bootstrap.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='kopa-icoMoon-css'  href='http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/css/icoMoon.css' type='text/css' media='all' />
+<link rel='stylesheet' id='kopa-superfish-css'  href='http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/css/superfish.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='kopa-prettyPhoto-css'  href='http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/css/prettyPhoto.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='kopa-flexlisder-css'  href='http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/css/flexslider.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='kopa-style-css'  href='http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='kopa-bootstrap-responsive-css'  href='http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/css/bootstrap-responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='kopa-extra-style-css'  href='http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/css/extra.css' type='text/css' media='all' />
+<link rel='stylesheet' id='kopa-responsive-css'  href='http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/css/responsive.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/js/modernizr.custom.js?ver=4.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var kopa_front_variable = {"ajax":{"url":"http:\/\/kopatheme.net\/demo\/news-mix\/wp-admin\/admin-ajax.php"},"template":{"post_id":0}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://kopatheme.net/demo/news-mix/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://kopatheme.net/demo/news-mix/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://kopatheme.net/demo/news-mix/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://kopatheme.net/demo/news-mix/wp-includes/wlwmanifest.xml" /> 
+
+<style>
+        #logo-image{
+            margin-top:px;
+            margin-left:px;
+            margin-right:px;
+            margin-bottom:px;
+        } 
+    </style><style>
+        .widget .widget-title,
+        .kopa-related-post h3, 
+        #comments h3, #respond h3,
+        #contact-box h3,
+        #contact-box .title-text,
+        .rsswidget,
+        .rsswidget:hover {
+            color: #ffffff;
+        }
+        h1,
+        .elements-box h1, 
+        h1 a {
+            color: #000000;
+        }
+        h2, 
+        .elements-title, 
+        .elements-box h2,
+        h2 a {
+            color: #000000;
+        }
+        h3,
+        .elements-box h3,
+        h3 a {
+            color: #000000;
+        }
+        h4,
+         .elements-box h4,
+        h4 a {
+            color: #000000;
+        }
+        h5,
+        .elements-box h5,
+        h5 a {
+            color: #000000;
+        }
+        h6,
+        .elements-box h6,
+        h6 a {
+            color: #000000;
+        }
+        </style><style>
+        
+        </style><style>
+            .kopa-style-box {
+                background-image: url(http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/images/background/body-bg.png);
+                background-color: #FFFFFF;
+                background-repeat: repeat;
+                background-position: top left;
+                background-attachment: fixed;
+            }
+        </style><style>/* Headline scroller fix height */
+.ticker-1 {
+    width: 1000px;
+    height: 40px;
+    overflow: hidden;
+}
+body {
+    font-family: 'arial',sans-serif;
+}
+.widget-area-12 .widget.kopa-entry-list-widget .entry-item .entry-title a,
+.widget-area-9 .kopa-entry-list-widget .older-post li a, .widget-area-10 .kopa-entry-list-widget .older-post li a,
+.kopa-entry-list-widget .older-post li a, 
+.widget .entry-item .entry-title a, 
+.kopa-video-widget ul li .entry-item .entry-title a,
+.kopa-article-list-widget .tab-container-1 ul li .entry-title a,
+.older-post li a{
+color:#000;
+}</style><style>
+        .kp-dropcap.color,
+        .kopa-carousel-widget .pager a,
+        .kopa-video-widget ul li .entry-item .entry-content .entry-thumb .play-icon,
+        .widget-area-12 .kopa-entry-list-widget .kopa-entry-list .play-icon,
+        .kp-gallery-slider .play-icon,
+        .kp-gallery-carousel .play-icon {
+            behavior: url(http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/js/PIE.htc);
+        }
+    </style>	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<script type="text/javascript">
+(function(url){
+if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+var wfscr = document.createElement('script');
+wfscr.type = 'text/javascript';
+wfscr.async = true;
+wfscr.src = url + '&r=' + Math.random();
+(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+})('//kopatheme.net/demo/news-mix/wp-admin/admin-ajax.php?action=wordfence_logHuman&hid=3298D793AF86702CE0878CBBC629F9FA'); 
+</script></head>    
+<body class="error404 sub-page kopa-style-box">
+
+    
+    <div class="wrapper kopa-shadow">
+        
+        <div class="row-fluid">
+            
+            <div class="span12 clearfix">
+
+                            
+                    <header id="page-header">
+                    
+                        <div id="header-top" class="clearfix">
+                                    
+                            <div class="kp-headline-wrapper clearfix">
+                                                                    <h6 class="kp-headline-title">Breaking News<span></span></h6>
+                                                                <div class="kp-headline clearfix">                        
+                                    <dl class="ticker-1 clearfix">
+                                        <dd><a href="http://kopatheme.net/demo/news-mix/adrian-peterson-exclusive-interview/">Adrian Peterson exclusive interview</a></dd><dd><a href="http://kopatheme.net/demo/news-mix/why-isnt-baseball-more-popular-in-the-uk/">Why isnt baseball more popular in the UK?</a></dd><dd><a href="http://kopatheme.net/demo/news-mix/peacock-v-browne-paralympic-rivalry/">Peacock v Browne Paralympic rivalry</a></dd><dd><a href="http://kopatheme.net/demo/news-mix/inspired-to-try-every-olympic-sport/">Inspired to try every Olympic sport</a></dd><dd><a href="http://kopatheme.net/demo/news-mix/ipc-championships-day-by-day-guide/">IPC Championships day-by-day guide</a></dd>                                    </dl><!--ticker-1-->
+                                </div><!--kp-headline-->
+                            </div><!--kp-headline-wrapper-->
+                            
+                            <div class="social-search-box">
+                                                            
+                                <ul class="social-links clearfix">
+                                    <!-- facebook -->
+                                                                            <li><a title="Facebook" href="http://facebook.com/kopatheme" data-icon="&#xe1c3;"></a></li>
+                                                                        
+                                    <!-- twitter -->
+                                                                            <li><a title="Twitter" href="http://twitter.com/kopasoft" data-icon="&#xe1c7;"></a></li>
+                                                                        
+                                    <!-- youtube -->
+                                                                            <li><a title="Youtube" href="http://kopatheme.net" data-icon="&#xe1cd;"></a></li>
+                                    
+                                    <!-- dribbble -->
+                                                                            <li><a title="Dribbble" href="http://kopatheme.net" data-icon="&#xe1d8;"></a></li>
+                                                                        
+                                    <!-- flickr -->
+                                                                            <li><a title="Flickr" href="http://kopatheme.net" data-icon="&#xe1d3;"></a></li>
+                                                                        
+                                    <!-- rss -->
+                                                                            <li><a title="RSS" href="http://kopatheme.net/demo/news-mix/feed/" data-icon="&#xe1ca;"></a></li>
+                                                                    </ul><!--social-links-->
+                                
+                                <div class="sb-search-wrapper">
+                                    <div id="sb-search" class="sb-search">
+                                        <form method="get" action="http://kopatheme.net/demo/news-mix">
+                                            <input class="sb-search-input" placeholder="Enter your search term..." type="text" value="" name="s" id="search">
+                                            <input class="sb-search-submit" type="submit" value="">
+                                            <span class="sb-icon-search"></span>
+                                        </form>
+                                    </div><!--sb-search-->
+                                </div><!--sb-search-wrapper-->
+                                
+                            </div><!--social-search-box-->                    
+                            
+                        </div><!--header-top-->
+                        
+                        <div id="header-middle" class="clearfix">
+                        
+                            <div id="logo-image">
+                                                                    <a href="http://kopatheme.net/demo/news-mix"><img src="http://kopatheme.net/demo/news-mix/wp-content/uploads/2013/08/logo.png" alt="News Mix &#8211; Sport Magazine WordPress theme"></a>
+                                                            </div><!--logo-image-->
+                            
+                            <div class="top-banner">
+
+                                <img src="http://kopatheme.net/demo/news-mix/wp-content/uploads/2013/08/468x60.gif">                                
+                            </div><!--top-banner-->
+                            
+                        </div><!--header-middle-->
+                        
+                       <div id="header-bottom">
+                       
+                            <nav id="main-nav">
+
+                                <ul id="main-menu" class="menu clearfix"><li class="menu-home-icon"><a href="http://kopatheme.net/demo/news-mix">Home</a><span></span></li><li id="menu-item-332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-332"><a href="http://kopatheme.net/demo/news-mix/blog/">Blog</a><span></span>
+<ul class="sub-menu">
+	<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-17"><a href="http://kopatheme.net/demo/news-mix/blog/">Blog Post</a><span></span></li>
+	<li id="menu-item-333" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-333"><a href="#">Single Post</a><span></span>
+	<ul class="sub-menu">
+		<li id="menu-item-334" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-334"><a href="http://kopatheme.net/demo/news-mix/gillian-shares-how-he-built-a-2-billion-cloud-startup-22/">Single Post Style 1</a><span></span></li>
+		<li id="menu-item-340" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-340"><a href="http://kopatheme.net/demo/news-mix/french-beauties-for-bastille-day/">Single Post Style 2</a><span></span></li>
+		<li id="menu-item-335" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-335"><a href="http://kopatheme.net/demo/news-mix/video-post/">Single Post Style 3</a><span></span></li>
+		<li id="menu-item-336" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-336"><a href="http://kopatheme.net/demo/news-mix/gallery-post/">Single Post Style 4</a><span></span></li>
+		<li id="menu-item-337" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-337"><a href="http://kopatheme.net/demo/news-mix/north-korea-something-is-wong-with-this-picture-2/">Single Post Style 5</a><span></span></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="http://kopatheme.net/demo/news-mix/gallery/">Gallery</a><span></span></li>
+<li id="menu-item-149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="http://kopatheme.net/demo/news-mix/video/">Video</a><span></span></li>
+<li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="http://kopatheme.net/demo/news-mix/elements/">Elements</a><span></span></li>
+<li id="menu-item-121" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-121"><a href="http://kopatheme.net/demo/news-mix/elements4">Error Page</a><span></span></li>
+<li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="http://kopatheme.net/demo/news-mix/contact/">Contact</a><span></span></li>
+</ul><div id="mobile-menu" class="menu-menu-container"><span>Menu</span><ul id="toggle-view-menu"><li class="clearfix"><h3><a href="http://kopatheme.net/demo/news-mix">Home</a></h3></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-332 clearfix"><h3><a href="http://kopatheme.net/demo/news-mix/blog/">Blog</a></h3>
+<span>+</span><div class='clear'></div><div class='menu-panel clearfix'><ul>	<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-17"><a href="http://kopatheme.net/demo/news-mix/blog/">Blog Post</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-333"><a href="#">Single Post</a><ul>		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-334"><a href="http://kopatheme.net/demo/news-mix/gillian-shares-how-he-built-a-2-billion-cloud-startup-22/">Single Post Style 1</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-340"><a href="http://kopatheme.net/demo/news-mix/french-beauties-for-bastille-day/">Single Post Style 2</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-335"><a href="http://kopatheme.net/demo/news-mix/video-post/">Single Post Style 3</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-336"><a href="http://kopatheme.net/demo/news-mix/gallery-post/">Single Post Style 4</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-337"><a href="http://kopatheme.net/demo/news-mix/north-korea-something-is-wong-with-this-picture-2/">Single Post Style 5</a></li>
+</ul></li>
+</ul></div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150 clearfix"><h3><a href="http://kopatheme.net/demo/news-mix/gallery/">Gallery</a></h3></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149 clearfix"><h3><a href="http://kopatheme.net/demo/news-mix/video/">Video</a></h3></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101 clearfix"><h3><a href="http://kopatheme.net/demo/news-mix/elements/">Elements</a></h3></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-121 clearfix"><h3><a href="http://kopatheme.net/demo/news-mix/elements4">Error Page</a></h3></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100 clearfix"><h3><a href="http://kopatheme.net/demo/news-mix/contact/">Contact</a></h3></li>
+</ul></div>                                
+                            </nav><!--main-nav-->
+                             
+                       </div><!--header-bottom-->
+                    
+                    </header><!--page-header-->
+
+                                
+                <div id="main-content">
+
+        <div class="row-fluid"><div class="span12"><div class="breadcrumb"><a href="http://kopatheme.net/demo/news-mix">Home</a>&nbsp;/&nbsp;<span class="current-page">Page not found</span></div></div></div>
+<div class="row-fluid">
+    <div class="span12">
+        <section class="error-404 clearfix">
+            <div class="left-col">
+                <p>404</p>
+            </div><!--left-col-->
+            <div class="right-col">
+                <h1>Page not found...</h1>
+                <p>We're sorry, but we can't find the page you were looking for. It's probably some thing we've done wrong but now we know about it we'll try to fix it. In the meantime, try one of this options:</p>
+                <ul class="arrow-list">
+                                            <li><a href="http://kopatheme.net/demo/news-mix/news-mix-1/wp-content/themes/news-mix/css/responsive.css">Go back to previous page</a></li>
+                                        <li><a href="http://kopatheme.net/demo/news-mix">Go to homepage</a></li>
+                </ul>
+            </div><!--right-col-->
+        </section><!--error-404-->
+    </div><!--span12-->
+</div><!--row-fluid-->
+
+
+        </div><!--main-content-->
+            
+            <div class="bottom-sidebar clearfix">
+                
+                <div class="widget-area-13">
+                    <div class="widget widget_text">
+                        <div id="footer-logo">
+                                                            <a href="http://kopatheme.net/demo/news-mix"><img src="http://kopatheme.net/demo/news-mix/wp-content/uploads/2013/08/logo.png" alt="News Mix &#8211; Sport Magazine WordPress theme"></a>
+                                                    </div><!--footer-logo-->
+                        <div class="textwidget">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus leo ante, consectetur sit amet vulputate vel, dapibus sit amet lectus. Etiam varius dui eget lorem elementum eget mattis sapien interdum. In hac habitasse platea dictumst. Morbi sed nisi est, vitae convallis nulla. Nunc vestibulum ipsum nec libero sodales dignissim.
+                        </div>
+                    </div><!--widget-->
+                </div><!--widget-area-13-->
+                
+                <div class="widget-area-14">
+                    <div class="widget kopa-search-widget">
+<h3 class="widget-title">Search</h3>
+<form action="http://kopatheme.net/demo/news-mix" method="get" class="search-form clearfix">
+<p class="input-search-form clearfix">
+<input type="text" name="s" placeholder="Search" value="" class="search-form-field" size="40">
+<input type="submit" value="Search" class="submit">
+</p>
+</form>                       
+ </div>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus leo ante, consectetur sit amet vulputate
+                </div><!--widget-area-14-->
+                
+                <div class="clear"></div>
+                
+            </div><!--bottom-sidebar-->
+            
+            <footer id="page-footer">
+                <nav id="footer-nav" class="menu-footer-menu-container"><ul id="footer-menu" class="clearfix"><li id="menu-item-106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106"><a href="http://kopatheme.net/demo/news-mix/">Home</a></li>
+<li id="menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-105"><a href="http://kopatheme.net/demo/news-mix/blog/">Blog</a></li>
+<li id="menu-item-109" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-109"><a href="#">Terms &#038; Conditions</a></li>
+<li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="http://kopatheme.net/demo/news-mix/contact/">Contact us</a></li>
+</ul></nav>            </footer><!--page-footer-->
+            
+            <p id="back-top">
+                <a href="#top">Back to Top</a>
+            </p>
+
+        </div><!--span12-->
+                
+    </div><!--row-fluid-->
+            
+</div><!--wrapper-->  
+
+
+
+
+<input type="hidden" id="kopa_set_view_count_wpnonce" name="kopa_set_view_count_wpnonce" value="c8edf29cee" /><script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js'></script>
+<script type='text/javascript' src='http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/js/google-fonts.js'></script>
+<script type='text/javascript' src='http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/js/superfish.js'></script>
+<script type='text/javascript' src='http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/js/retina.js'></script>
+<script type='text/javascript' src='http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/js/bootstrap.js'></script>
+<script type='text/javascript' src='http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/js/jquery.carouFredSel-6.0.4-packed.js'></script>
+<script type='text/javascript' src='http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/js/classie.js'></script>
+<script type='text/javascript' src='http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/js/uisearch.js'></script>
+<script type='text/javascript' src='http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/js/jquery.flexslider-min.js'></script>
+<script type='text/javascript' src='http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/js/jquery.prettyPhoto.js'></script>
+<script type='text/javascript' src='http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/js/tweetable.jquery.js'></script>
+<script type='text/javascript' src='http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/js/jquery.timeago.js'></script>
+<script type='text/javascript' src='http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/js/jquery.backstretch.js'></script>
+<script type='text/javascript' src='http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/js/jquery.validate.min.js'></script>
+<script type='text/javascript' src='http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/js/jquery.form.js'></script>
+<script type='text/javascript' src='http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/js/set-view-count.js'></script>
+<script type='text/javascript' src='http://kopatheme.net/demo/news-mix/wp-content/themes/news-mix/js/custom.js'></script>
+</body>
+
+</html>

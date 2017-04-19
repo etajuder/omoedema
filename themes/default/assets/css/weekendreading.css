@@ -1,0 +1,72 @@
+*{font-family:calibri;}
+.how-it-works h1{color:#4b77be;padding-bottom:4%;padding-top:7%;}
+.app-info{background-color:#4b77be;color:#fff;}
+.app-info p{padding-bottom:5%;}
+.app-info a{color:#fff;}
+.app-info h2{padding-top:10%;}
+.app-info p{
+	width:70%;
+	margin:0 auto;
+	font-size:1.5em;
+}
+@media(max-width:540px){
+	.app-info p{
+		width:auto;
+		text-align: left;
+	}
+}
+.experts_image{color:#000;}
+.experts_image h1{padding-bottom:5%;padding-top:1%;color:#fff;}
+.experts_image img{border:2px solid #fff;}
+.link-btn{padding-bottom:5%;}
+.btn-ghost{background-color:#4b77be;border:1px solid #fff;color:#fff;}
+.btn-green{background-color:#003171;color:#fff;border:1px solid #003171}
+@media(max-width:540px){.btn{margin-top:5px;}}
+@media(max-width:740px) and (min-width:340px){
+	.experts_image{height:550px;}
+	.experts_image .col-md-12{
+		padding-bottom:10%;
+	}
+}
+.how-it-works{background-color:#fff;}
+.how-it-works h2{color:#4b77be;}
+.how-it-works p{font-size:17px;}
+.how-it-works article{padding-bottom:3%;}
+footer{padding:3%;font-size:18px;}
+
+.add-to-list{
+	width:50%;
+	margin:10% auto;
+	background-color:#fff;
+	padding:2%;
+}
+@media(max-width:640px){
+	.add-to-list{width:90%;}
+}
+.add-to-list h2{padding-bottom:3%;color:#4b77be;}
+textarea{height:200px;}
+input,select,textarea,button{display:block;}
+.full-width{width:100%;}
+.list{background-color:#f1f1f1;padding-top:5%;}
+.logo{color:#fff;}
+.bg-white{background-color:#fff;}
+.btn-fb{background-color:#3b5998;color:#fff;}
+.btn-tw{background-color:#00aced;color:#fff;}
+.btn-gp{background-color:#dd4b39;color:#fff;}
+.readingsection{padding-bottom:2%;}
+@media(max-width:640px){
+	.advert{
+		margin-top:3%;
+	}
+}
+.remove-padding{padding:1px;}
+.top{padding-top:10px;}
+.search-form input, .search-form select{float:left;	padding:5px;}
+.search-form input{
+	width:50%;
+	margin-left:5%;
+}
+.search-form button{margin-left:5px;width:20%;padding:1%;}
+.style{background-color:#fff; border:1px solid #d0a0b3;color:#000;}
+.btm{padding:10px;}
+.no-border-radius{border-radius: 0px;}
